@@ -1,0 +1,9 @@
+https://plotly.com/python/getting-started/
+https://plotly.com/python/graph-objects/
+https://plotly.com/python/plotly-express/
+https://plotly.com/python-api-reference/
+https://community.plotly.com/c/plotly-python/5
+https://plotlygraphs.medium.com/
+
+open source datasets
+https://developer.ibm.com/exchanges/data/

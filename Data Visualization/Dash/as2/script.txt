@@ -1,0 +1,25 @@
+python --version
+python 3.12.4
+
+I have python 3.12.4 installed. now i want to install setuptools,pandas dash and dash plotly
+###########################################################
+Invoke-WebRequest -Uri https://bootstrap.pypa.io/get-pip.py -OutFile get-pip.py
+
+#python3.12 get-pip.py
+py get-pip.py
+py -m pip install --upgrade setuptools
+
+py -m pip install pandas dash plotly
+
+#verify installation
+py -m pip show pandas
+py -m pip show dash
+py -m pip show plotly
+
+
+
+ html.Div([
+          html.H2('Select Region:', style={'margin-right': '2em'}),
+             #Radio items to select the region
+             dcc.RadioItems(['NSW','QL','SA','TA','VI','WA'], 'NSW', id='region',inline=True)]),
+            

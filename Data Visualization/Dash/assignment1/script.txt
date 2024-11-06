@@ -1,0 +1,5 @@
+pip install folium
+pip install requests
+include dataset
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Historical_Wildfires.csv"
+Aus_map.save("australia_map.html")

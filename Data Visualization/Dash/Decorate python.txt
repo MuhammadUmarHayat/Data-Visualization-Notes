@@ -1,0 +1,5 @@
+https://realpython.com/primer-on-python-decorators/
+https://peps.python.org/pep-0318/#current-syntax
+https://dash.plotly.com/basic-callbacks
+https://dash.gallery/Portal/
+https://community.plotly.com/t/community-components-index/60098
